@@ -1,0 +1,44 @@
+{
+  "initial_conditions": {
+    "max_abs_error": 0.0,
+    "passed": true
+  },
+  "closed_box_conservation": {
+    "hours": 1.0,
+    "dt_s": 150.0,
+    "water_rel_error": 4.884431809772089e-15,
+    "energy_rel_error": 1.0958171315359915e-14,
+    "tolerance": 2e-09,
+    "passed": true,
+    "W_mean_final": 0.018979262043742496,
+    "M_mean_final": 0.15998953110693517
+  },
+  "analytical_heat_diffusion": {
+    "cells": [
+      9,
+      17,
+      33
+    ],
+    "dt_s": 10.0,
+    "L2_errors_degC": [
+      8.820077282807868e-06,
+      2.4795110578508644e-06,
+      6.587850685307541e-07
+    ],
+    "observed_order_log2": [
+      1.8307356376047579,
+      1.9121758977055339
+    ],
+    "observed_order_h_ratio": [
+      1.9952699040595379,
+      1.9982374298455068
+    ],
+    "passed": true
+  },
+  "darcy_pressure_drop": {
+    "p_fan_Pa": 101527.72,
+    "gauge_Pa": 202.72000000000116,
+    "velocity_rel_error": 1.261391784674564e-13,
+    "passed": true
+  }
+}

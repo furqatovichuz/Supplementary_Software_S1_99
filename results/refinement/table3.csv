@@ -1,0 +1,17 @@
+Refinement,Reported change,No ventilation,Continuous ventilation
+300 -> 150 s,"Maximum temperature-metric change, degC",0.00214,0.0183
+300 -> 150 s,Mean grain-moisture change,3.36e-07,0.000631
+300 -> 150 s,"Mean humidity-ratio change, kg/kg",3.32e-06,7.43e-05
+300 -> 150 s,"Mean insect-density change, m^-3",0.0446,0.211
+600 -> 300 s,"Maximum temperature-metric change, degC",0.00411,0.0376
+600 -> 300 s,Mean grain-moisture change,4.97e-07,0.00096
+600 -> 300 s,"Mean humidity-ratio change, kg/kg",6.43e-06,0.000123
+600 -> 300 s,"Mean insect-density change, m^-3",0.0851,0.357
+13x13x21 -> 17x17x27,"Maximum temperature-metric change, degC",0.101,0.00664
+13x13x21 -> 17x17x27,Mean grain-moisture change,4.08e-05,4.32e-05
+13x13x21 -> 17x17x27,"Mean humidity-ratio change, kg/kg",0.000124,2.25e-06
+13x13x21 -> 17x17x27,"Mean insect-density change, m^-3",5.25,0.013
+9x9x15 -> 13x13x21,"Maximum temperature-metric change, degC",0.303,0.0105
+9x9x15 -> 13x13x21,Mean grain-moisture change,2.45e-05,4.44e-05
+9x9x15 -> 13x13x21,"Mean humidity-ratio change, kg/kg",0.000285,1.8e-06
+9x9x15 -> 13x13x21,"Mean insect-density change, m^-3",10,0.0244

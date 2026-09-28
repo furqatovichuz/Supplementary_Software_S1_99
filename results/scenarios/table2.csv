@@ -1,0 +1,7 @@
+Quantity,No ventilation,Continuous ventilation,Difference / change
+Mean temperature (degC),25.10,14.83,-10.26
+Minimum temperature (degC),15.18,14.71,-0.47
+Maximum temperature (degC),36.31,14.99,-21.32
+Mean grain moisture (wet basis),0.15929,0.15389,-0.00539
+Mean air humidity ratio (kg/kg),0.02088,0.00817,-0.01270
+Mean insect density (m^-3),298.03,2.55,-99.14%
