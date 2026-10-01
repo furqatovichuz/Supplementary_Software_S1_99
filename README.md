@@ -1,7 +1,6 @@
 # Supplementary Software S1
 
 **Investigation of Coupled Heat and Moisture Transfer and Ventilation Performance in Porous Grain Storage Using a Three-Dimensional Numerical Model**
-N. Kurbonov, I. Shadmanov, Z. Adizova — *AgriEngineering*
 
 Python/NumPy/SciPy implementation of the three-dimensional cell-centred finite-volume model for grain
 temperature *T*, wet-basis grain moisture *M*, interstitial-air humidity ratio *W*, insect density *N*
